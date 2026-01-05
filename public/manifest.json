@@ -1,0 +1,21 @@
+{
+    "manifest_version":3,
+    "version":"1.0.0",
+    "name":"PingTask",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "48":"reminder (1).png",
+        "128":"reminder (1).png",
+        "32":"reminder (1).png",
+        "64":"reminder (1).png"
+    },
+    "permissions":[
+        "scripting","storage"
+    ],
+    "host_permissions":[
+        "https://*/*",
+        "http://*/*"
+    ]
+}
