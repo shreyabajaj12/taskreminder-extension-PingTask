@@ -13,6 +13,6 @@ PingTask is a smart productivity browser extension that helps users manage tasks
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TypeScript  
+- **Frontend:** React, Javascript 
 - **Backend & Auth:** Supabase  
 - **Browser APIs:** Chrome / Edge Extension APIs (Manifest V3)
